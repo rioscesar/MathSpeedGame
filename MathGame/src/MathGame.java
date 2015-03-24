@@ -4,8 +4,6 @@ import java.util.Scanner;
  * @author Cesar
  * Math game that checks how fast you can answer some math questions. 
  * Questions are in random numbers with your choice of mathematical operation and difficulty. 
- * Along with that quest you can also play tic tac toe against a computer 
- * that randomly chooses where to position its pieces. 
  * ENJOY!
  *
  */
